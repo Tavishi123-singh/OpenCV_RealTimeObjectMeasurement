@@ -14,5 +14,5 @@
 1. Run the `Project4.py` file.
 
 # Demo
-[Click here to watch the demo video](https://raw.githubusercontent.com/Tavishi123-singh/OpenCV_NumberPlateReader/master/Project4.mp4)
+[Click here to watch the demo video](https://raw.githubusercontent.com/Tavishi123-singh/OpenCV_RealTimeObjectMeasurement/master/Project4.mp4)
 
